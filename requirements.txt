@@ -2,3 +2,5 @@ django
 gunicorn
 django-heroku
 requests
+djangorestframework
+djangorestframeworkapikey==0.1.1
